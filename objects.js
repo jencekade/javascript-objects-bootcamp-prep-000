@@ -1,4 +1,4 @@
-let playlist = {
+var playlist = {
   artist: "song"
 };
 
